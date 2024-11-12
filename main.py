@@ -1,1 +1,2 @@
-print("działa!!!".encode("utf-8"))
+print("działa!!!")
+print("Ja jestem nowym kodem")
